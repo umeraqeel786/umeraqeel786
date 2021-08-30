@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @umeraqeel786
+- 👋 Hi, I’m UMER
 - 👀 I’m interested in Blockchain and MERN Stack development.
 - 🌱 I’m currently learning BNB NFT DEFI and explorer javascript framework and liberary.
 - 💞️ I’m looking to collaborate on any blockchain project private or public.
