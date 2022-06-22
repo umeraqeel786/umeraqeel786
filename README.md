@@ -12,8 +12,8 @@
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
    <img alt="Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=whitee" />
-  <img alt="Google Cloud Platform" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
-  <img alt="Google Cloud Platform" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> 
+  <img alt="Google Cloud Platform" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="60" height="60" /> 
+  <img alt="Google Cloud Platform" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="500" height="600"/> 
   <img alt="Google Cloud Platform" src="" /> 
   <img alt="Google Cloud Platform" src="" /> 
   <img alt="Google Cloud Platform" src="" /> 
