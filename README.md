@@ -6,7 +6,7 @@
 -    I’m looking to collaborate on any blockchain project private or public.
     - Like to read books <img src="https://emojis.slackmojis.com/emojis/images/1588108671/8787/fb-hug.png?1588108671" width="30">
     - Sometimes dabble in Stock markets/ Cryptos <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="30">
-- 👉 How to reach me umeraqeel2017@gmail.com
+-   How to reach me umeraqeel2017@gmail.com
 
 ### Languages and Technologies:
 <p>
