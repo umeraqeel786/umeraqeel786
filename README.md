@@ -5,7 +5,7 @@
 -    I’m currently working, learning and exploring smart contract on different blockchain plateform like Ethereum, Cardano, Solana and exploring javascript framework and liberary 
 -    I’m looking to collaborate on any blockchain project private or public.
      - Like to read books 
-     - Sometimes dabble in Stock markets/ Cryptos <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="30">
+     - Sometimes dabble in Stock markets/ Cryptos
      - Reach me  umeraqeel2017@gmail.com
 
 ### Languages and Technologies:
