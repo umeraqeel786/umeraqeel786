@@ -8,7 +8,6 @@ Throughout my career, I have worked on a diverse range of Blockchain / Web3 proj
 - I have a hands on experience in Solidity, Go, Ethereum, Bnb, Polygon, Hyperledger Fabric.
 - I have experience in Node.JS, React.JS and SQL Server, and have experience working with various frameworks, such as Express.JS, Angular
 - Experienced in building WebAPIs, integrating with third-party APIs, and implementing complex business logic. 
-- I’m currently working, learning and exploring smart contract on different blockchain plateform like Ethereum, Cardano, Solana and exploring javascript framework and liberary 
 - I’m looking to collaborate on any blockchain project private or public.
      - Like to read books 
      - Sometimes dabble in Stock markets/ Cryptos
